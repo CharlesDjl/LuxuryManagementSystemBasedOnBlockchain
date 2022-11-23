@@ -5,6 +5,6 @@ A implementation of Luxury management System based on Blockchain technology
 
 
 ## 1. start the client as daemon
-"python cli.py start"
+`python cli.py start`
 
 ## 2. start
